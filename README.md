@@ -6,10 +6,15 @@ This repository contains **Python code** for generating various **logos, cartoon
 ```
 📦 Logo  
  ┣ 📂 Code  
- ┃ ┣ 🐍 logo1.py  
- ┃ ┣ 🎮 game.py  
- ┃ ┣ 🎭 character.py  
- ┃ ┣ 📜 README.md  
+ ┃ ┣ 🐍 Among Us.py 
+ ┃ ┣ 🎭Batman.py
+ ┃ ┣ 🎭 Captain America Shield.py
+ ┃ ┣ 🐍 Clock.py
+ ┃ ┣ 🐍 doremon.py
+ ┃ ┣ 🎭 IronMan.py
+ ┃ ┣ 🎮 ROCKPAPERSCISSOR.py
+ ┃ ┣ 🐍 Sinchan.py
+ ┃ ┣ 🎮 Star Wars game.py 
 ```
 
 ## 🚀 Features  
@@ -34,11 +39,6 @@ pip install turtle pygame opencv-python
    ```sh
    python logo1.py
    ```
-
-## 📷 Preview  
-(Screenshots of logos/characters/games can be added here.)  
-
----
 
 ### 📝 License  
 This project is open-source and free to use.  
